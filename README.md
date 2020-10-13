@@ -13,7 +13,7 @@ sudo apt-get install curl
    12  brew update
    13  brew list
    
-   # Loyal Notifications
+   # Template Feactures for repo
 
 El propósito de esta aplicación es resolver las notificaciones que se envían por alcanzar algún hito por el programa de Mercado Puntos. 
 
