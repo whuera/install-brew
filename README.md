@@ -3,7 +3,7 @@
 ![Open Collective sponsors](https://img.shields.io/opencollective/sponsors/shields)
 ![GitHub commits since tagged version (branch)](https://img.shields.io/github/commits-since/whuera/install-brew/1.0/master)
 
-# install-brew
+# install-brew steps for Linux distro debian / ubuntu 20.04
 
     
 install brew tool in linux
