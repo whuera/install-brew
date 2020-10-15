@@ -45,7 +45,7 @@ Scope Middleend: test3
 
 | Platform |  Partner  |      Escenario     |      Respuesta      |  Comentarios  |
 | --------- | -------- | ---------------- | ----------------- | -------------- |
-|        Linux      |    HomeBrew    | | ![image] |  pasos para instalar el gestionador de paquetes Brew |
+|        Linux      |    HomeBrew    | |  |  pasos para instalar el gestionador de paquetes Brew |
 
 
 
