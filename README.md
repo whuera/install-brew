@@ -1,4 +1,11 @@
 # install-brew
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 install brew tool in linux
 
 follow next steps:
@@ -12,6 +19,8 @@ sudo apt-get install curl
    11  brew install gcc
    12  brew update
    13  brew list
+   
+   
    
    # Template Feactures for repo
 
