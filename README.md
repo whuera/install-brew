@@ -1,5 +1,6 @@
 ![technology Gradle](https://img.shields.io/badge/technology-Gradle-blue.svg)
 ![homebrew](https://img.shields.io/homebrew/v/cake)
+![Open Collective sponsors](https://img.shields.io/opencollective/sponsors/shields)
 
 # install-brew
 
