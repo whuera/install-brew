@@ -8,17 +8,20 @@
     
 install brew tool in linux
 
-follow next steps:
-sudo apt-get install curl
-    5  sudo apt-get install build-essential curl file git
-    6  sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
-    7  echo 'export PATH="/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin/:$PATH"' >>~/.bashrc
-    8  echo 'export MANPATH="/home/linuxbrew/.linuxbrew/share/man:$MANPATH"' >>~/.bashrc
-    9  echo 'export INFOPATH="/home/linuxbrew/.linuxbrew/share/info:$INFOPATH"' >>~/.bashrc
-   10  source  ~/.bashrc
-   11  brew install gcc
-   12  brew update
-   13  brew list
+## follow next steps:
+1. sudo apt-get install curl
+2. sudo apt-get install build-essential curl file git
+3. sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
+4. echo 'export PATH="/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin/:$PATH"' >>~/.bashrc
+5. echo 'export MANPATH="/home/linuxbrew/.linuxbrew/share/man:$MANPATH"' >>~/.bashrc
+6. echo 'export INFOPATH="/home/linuxbrew/.linuxbrew/share/info:$INFOPATH"' >>~/.bashrc
+7. source  ~/.bashrc
+
+#### Finally steps and test
+
+8. brew install gcc
+9. brew update
+10. brew list
    
    
    
