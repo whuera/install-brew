@@ -2,8 +2,7 @@
 ![homebrew](https://img.shields.io/homebrew/v/cake)
 ![Open Collective sponsors](https://img.shields.io/opencollective/sponsors/shields)
 ![GitHub commits since tagged version (branch)](https://img.shields.io/github/commits-since/whuera/install-brew/1.0/master)
-[fork my repository](https://github.com/user/repository/fork)
-[watch this repo](https://github.com/user/repository/subscription)
+
 
 # install-brew steps for Linux distro debian / ubuntu 20.04
 
@@ -25,7 +24,8 @@ install brew tool in linux
 9. brew update
 10. brew list
    
-   
+![fork my repository](https://github.com/user/repository/fork)
+![watch this repo](https://github.com/user/repository/subscription)  
    
    # Template Feactures for repo
 
