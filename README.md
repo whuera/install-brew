@@ -1,4 +1,5 @@
 ![technology Gradle](https://img.shields.io/badge/technology-Gradle-blue.svg)
+![Forks][forks-shield]][forks-url]
 
 # install-brew
 
