@@ -24,8 +24,8 @@ install brew tool in linux
 9. brew update
 10. brew list
    
-![fork my repository](https://github.com/user/repository/fork)
-![watch this repo](https://github.com/user/repository/subscription)  
+[fork my repository](https://github.com/whuera/install-brew/fork)
+[watch this repo](https://github.com/whuera/install-brew/subscription)  
    
    # Template Feactures for repo
 
